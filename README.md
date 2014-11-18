@@ -27,11 +27,9 @@
 ## 질문 해결을 위해 진행중인 프로젝트
 
 ### 알뜰 서울의 발견
-##### Github: [https://github.com/codeforseoul/FdAS](https://github.com/codeforseoul/FdAS)
-##### 질문:
-서울시 홈페이지는 1000만개!! 무슨소리냐구요? 바로 시민이 자신의 다양한 조건(나이, 성별, 가족, 사는 곳, 직업,)을 넣으면 그 조건에 맞는 서울시의 서비스를 보여주고 활용할 수 있게 하는 겁니다. 지금은 발품팔고 뛰어다녀도 찾기 힘든 시절이잖아요. ^^
+  * **Github**: [https://github.com/codeforseoul/FdAS](https://github.com/codeforseoul/FdAS)
+  * **질문**: 서울시 홈페이지는 1000만개!! 무슨소리냐구요? 바로 시민이 자신의 다양한 조건(나이, 성별, 가족, 사는 곳, 직업,)을 넣으면 그 조건에 맞는 서울시의 서비스를 보여주고 활용할 수 있게 하는 겁니다. 지금은 발품팔고 뛰어다녀도 찾기 힘든 시절이잖아요. ^^
 
 ### 서울 맑음
-##### Github: [https://github.com/codeforseoul/seoul_serenity](https://github.com/codeforseoul/seoul_serenity)
-##### 질문:
-시장님께서 많은 요청을 공무원들에게 하십니다. 이것을 사업별로 잘 관리를 해야 하는데 한 사업에 대해 한 번 회의를 하고 나면 다음에 점검까지 한두달이 훅 가버립니다. 이 수많은 사업들을 잘 체크하고 관리하기 위한 좋은 방법은 없을까요?
+  * **Github**: [https://github.com/codeforseoul/seoul_serenity](https://github.com/codeforseoul/seoul_serenity)
+  * **질문**: 시장님께서 많은 요청을 공무원들에게 하십니다. 이것을 사업별로 잘 관리를 해야 하는데 한 사업에 대해 한 번 회의를 하고 나면 다음에 점검까지 한두달이 훅 가버립니다. 이 수많은 사업들을 잘 체크하고 관리하기 위한 좋은 방법은 없을까요?
