@@ -26,7 +26,8 @@
 
 9. 시민이 시장인 시대입니다. 시민은 주로 민원시스템이나 트위터, 페북, 카스, 다산콜 등 다양한 방법으로 민원을 내시는데 이런 민원이 대체로 어느 분야가 가장 많은지를 분석해서 시민들에게 알리고 보고하는 오픈시스템이 있으면 어떨까 합니다.
 
-
+10. @rossgeesman: Korea has experienced unprecedented economic growth over the past 50 years. Unfortunatley much of Korea's older generation has not benefited from the improvements, and this has left many of them very vulnerable. Elderly suicide rates are extremely high, loneliness and isolation is common, and many lack funds to purchase food and medical supplies and are forced to work well past retirement to afford their expenses.
+Is there some way we can provide a solution to some of the many problems experienced by Korea's elderly population? Is there a government or civic organization we could partner with to get a better understanding of the problems? - [Issue #3](https://github.com/codeforseoul/seoulproblems/issues/3)
 
 ## 질문 해결을 위해 진행중인 프로젝트
 
