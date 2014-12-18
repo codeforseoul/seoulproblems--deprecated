@@ -29,6 +29,8 @@
 10. @rossgeesman: Korea has experienced unprecedented economic growth over the past 50 years. Unfortunatley much of Korea's older generation has not benefited from the improvements, and this has left many of them very vulnerable. Elderly suicide rates are extremely high, loneliness and isolation is common, and many lack funds to purchase food and medical supplies and are forced to work well past retirement to afford their expenses.
 Is there some way we can provide a solution to some of the many problems experienced by Korea's elderly population? Is there a government or civic organization we could partner with to get a better understanding of the problems? - [Issue #3](https://github.com/codeforseoul/seoulproblems/issues/3)
 
+11. it's hard for foreigners in Korea to find bus routes using mobile app. - [Issue #5](https://github.com/codeforseoul/seoulproblems/issues/5)
+
 ## 질문 해결을 위해 진행중인 프로젝트
 
 ### 알뜰 서울의 발견
