@@ -31,6 +31,8 @@ Is there some way we can provide a solution to some of the many problems experie
 
 11. it's hard for foreigners in Korea to find bus routes using mobile app. - [Issue #5](https://github.com/codeforseoul/seoulproblems/issues/5)
 
+12. Public Wifi Users Complaint Sender App - [Issue #6](https://github.com/codeforseoul/seoulproblems/issues/6)
+
 ## 질문 해결을 위해 진행중인 프로젝트
 
 ### 알뜰 서울의 발견
